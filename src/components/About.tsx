@@ -11,7 +11,7 @@ const About: React.FC = () => {
               <div className="aspect-[3/4] overflow-hidden rounded-lg">
                 <img 
                   src="/images/dp.jpg" 
-                  alt="Film Student Portrait" 
+                  alt="Display Picture" 
                   className="w-full h-full object-cover"
                 />
               </div>
